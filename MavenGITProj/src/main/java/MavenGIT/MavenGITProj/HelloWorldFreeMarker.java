@@ -10,7 +10,7 @@ import freemarker.template.Configuration;
 import freemarker.template.MalformedTemplateNameException;
 import freemarker.template.Template;
 import freemarker.template.TemplateNotFoundException;
-
+//Test
 public class HelloWorldFreeMarker {
 
 	public static void main(String args[])
